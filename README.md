@@ -25,50 +25,86 @@ The application provides separate access and dashboard statistics for Admin, Man
 *Custom user model with Admin, Manager, and Member roles.
 
 
-JWT-based authentication for secure login and API access.
+*JWT-based authentication for secure login and API access.
 
-Role-based permissions and access restrictions.
+*Role-based permissions and access restrictions.
 
-User profile management.
+*User profile management.
 
 **2. PROJECT MANAGEMENT**
 
-Create and manage projects.
+*Create and manage projects.
 
-Assign users to projects.
+*Assign users to projects.
 
-Track project status: Planning, Active, and Completed.
+*Track project status: Planning, Active, and Completed.
 
-Manage project-related tasks.
+*Manage project-related tasks.
 
 **3. TASK MANAGEMENT AND VERIFICATION**
 
-Create, assign, update, and manage tasks.
+*Create, assign, update, and manage tasks.
 
-Set task priorities and due dates.
+*Set task priorities and due dates.
 
-Allow members to mark assigned tasks as completed.
+*Allow members to mark assigned tasks as completed.
 
-Enable managers and admins to approve or reject completed tasks.
+*Enable managers and admins to approve or reject completed tasks.
 
-Provide feedback when rejecting tasks.
+*Provide feedback when rejecting tasks.
 
-Allow members to update and resubmit rejected tasks.
+*Allow members to update and resubmit rejected tasks.
 
-Track task verification status.
+*Track task verification status.
 
 **4. ROLE-BASED DASHBOARD**
 
-Separate dashboard statistics for Admin, Manager, and Member roles.
+*Separate dashboard statistics for Admin, Manager, and Member roles.
 
-Display project and task counts.
+*Display project and task counts.
 
-Track pending, completed, verified, and rejected tasks.
+*Track pending, completed, verified, and rejected tasks.
 
-Provide role-specific project and task information.
+*Provide role-specific project and task information.
 
 **APPLICATION SCREENSHOTS**
 
 1. LOGIN PAGE
 
 ![Login Page](Output/Login%20page.png)
+
+2. DASHBOARD
+
+![Dashboard](Output/Dashboard.png)
+
+3. PROJECT MANAGEMENT
+
+![Project Management](Output/Projects.png)
+
+4. PROJECT CREATION FORM
+
+![Project Creation Form](Output/projectform.png)
+
+5. TASK MANAGEMENT
+
+![Task Management](Output/Tasks.png)
+
+6. TASK CREATION FORM
+
+![Task Creation Form](Output/Taskform.png)
+
+7. TASK VERIFICATION
+
+![Task Verification](Output/Task%20Verification.png)
+
+8. REJECTED TASK AND FEEDBACK
+
+![Rejected Task](Output/Rejected%20Task.png)
+
+9. USER MANAGEMENT
+
+![User Management](Output/Users.png)
+
+10. USER CREATION FORM
+
+![User Creation Form](Output/Usersform.png)
