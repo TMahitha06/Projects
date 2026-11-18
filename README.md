@@ -6,7 +6,7 @@ The application provides separate access and dashboard statistics for Admin, Man
 
 **TECHNOLOGIES USED**
 
-Programming Languages: Python, JavaScript
+*Programming Languages:* Python, JavaScript
 
 Backend: Django, Django REST Framework
 
