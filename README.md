@@ -145,6 +145,36 @@ The application provides separate access and dashboard statistics for Admin, Man
   - `Usersform.png`
   - `projectform.png`
 
-- `README.md`
+- `README.md
+
+**LEARNING OUTCOMES**
+
+Through this project, I gained practical experience in:
+
+*Developing RESTful APIs using Django REST Framework.
+
+*Building frontend applications using React.js.
+
+*Implementing JWT authentication.
+
+*Designing relational database models using Django ORM.
+
+*Implementing role-based access control.
+
+*Developing task management and verification workflows.
+
+*Integrating frontend and backend components.
+
+**ABOUT THE DEVELOPER**
+
+**THATHA MAHITHA**
+
+B.Tech in Electronics and Communication Engineering | 2025
+
+Aspiring Python Full Stack Developer with practical experience in Python, Django, React.js, and REST API development.
+
+**GitHub:** https://github.com/TMahitha06
+
+**LinkedIn:** https://www.linkedin.com/in/t-mahitha-a34a65291/
 
 
