@@ -6,15 +6,15 @@ The application provides separate access and dashboard statistics for Admin, Man
 
 **TECHNOLOGIES USED**
 
-*Programming Languages:* Python, JavaScript
+**Programming Languages:** Python, JavaScript
 
-Backend: Django, Django REST Framework
+**Backend:** Django, Django REST Framework
 
-Frontend: React.js, HTML5, CSS3
+**Frontend:** React.js, HTML5, CSS3
 
-Database: SQLite
+**Database:** SQLite
 
-Authentication: JWT (JSON Web Token)
+**Authentication:** JWT (JSON Web Token)
 
-Development Tools: Git, GitHub, VS Code, PyCharm
+**Development Tools:** Git, GitHub, VS Code, PyCharm
 
