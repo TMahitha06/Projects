@@ -1,7 +1,7 @@
-Project Management System
+**Project Management System**
 A full-stack Project Management System developed using Python, Django REST Framework and React.js. This application provides role-based access and a structured task verification workflow for managing projects and team activities.
 
-Technologies Used
+**Technologies Used**
 Python
 Django
 Django REST Framework
@@ -11,7 +11,7 @@ HTML5
 CSS3
 SQLite
 JWT Authentication
-Key Features
+**Key Features**
 Custom user roles: Admin, Manager and Member.
 Secure login using JWT authentication.
 Project creation and assignment.
@@ -23,42 +23,42 @@ Rejected task resubmission.
 Separate dashboard statistics based on user roles.
 User and project management.
 Application Screenshots
-Login Page
+**Login Page
 !Login Page
 
-Dashboard
+**Dashboard
 !Dashboard
 
-Projects
+**Projects
 !Projects
 
-Project Form
+**Project Form
 !Project Form
 
-Tasks
+**Tasks
 !Tasks
 
-Task Form
+**Task Form
 !Task Form
 
-Task Verification
+**Task Verification
 !Task Verification
 
-Rejected Task
+**Rejected Task
 !Rejected Task
 
-Users
+**Users
 !Users
 
-User Form
+**User Form
 !User Form
 
-Project Structure
+**Project Structure**
 backend/ – Django backend and REST API implementation.
 frontend/ – React frontend application.
 Output/ – Application screenshots.
 
-About the Developer
+**About the Developer**
 Thatha Mahitha
 
 B.Tech – Electronics and Communication Engineering
