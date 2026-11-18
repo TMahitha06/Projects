@@ -22,7 +22,7 @@ The application provides separate access and dashboard statistics for Admin, Man
 
 **1. USER MANAGEMENT AND AUTHENTICATION**
 
-Custom user model with Admin, Manager, and Member roles.
+*Custom user model with Admin, Manager, and Member roles.
 
 
 JWT-based authentication for secure login and API access.
