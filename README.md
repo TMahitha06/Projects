@@ -69,42 +69,63 @@ The application provides separate access and dashboard statistics for Admin, Man
 
 **APPLICATION SCREENSHOTS**
 
-1. LOGIN PAGE
+**1. LOGIN PAGE**
 
 ![Login Page](Output/Login%20page.png)
 
-2. DASHBOARD
+**2. DASHBOARD**
 
 ![Dashboard](Output/Dashboard.png)
 
-3. PROJECT MANAGEMENT
+**3. PROJECT MANAGEMENT**
 
 ![Project Management](Output/Projects.png)
 
-4. PROJECT CREATION FORM
+**4. PROJECT CREATION FORM**
 
 ![Project Creation Form](Output/projectform.png)
 
-5. TASK MANAGEMENT
+**5. TASK MANAGEMENT**
 
 ![Task Management](Output/Tasks.png)
 
-6. TASK CREATION FORM
+**6. TASK CREATION FORM**
 
 ![Task Creation Form](Output/Taskform.png)
 
-7. TASK VERIFICATION
+**7. TASK VERIFICATION**
 
 ![Task Verification](Output/Task%20Verification.png)
 
-8. REJECTED TASK AND FEEDBACK
+**8. REJECTED TASK AND FEEDBACK**
 
 ![Rejected Task](Output/Rejected%20Task.png)
 
-9. USER MANAGEMENT
+**9. USER MANAGEMENT**
 
 ![User Management](Output/Users.png)
 
-10. USER CREATION FORM
+**10. USER CREATION FORM**
 
 ![User Creation Form](Output/Usersform.png)
+
+Projects/
+|
+
+
+|-- backend/
+
+|   |-- api/
+
+|   |   |-- models.py
+
+|   |   |-- views.py
+
+|   |   |-- serializers.py
+
+|   |   |-- permissions.py
+
+|   |   |-- urls.py
+
+|   |
+
