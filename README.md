@@ -109,21 +109,44 @@ The application provides separate access and dashboard statistics for Admin, Man
 
 ![User Creation Form](Output/Usersform.png)
 
+
 Projects/
 |
-
-
 |-- backend/
-
 |   |-- api/
-
 |   |   |-- models.py
-
 |   |   |-- views.py
-
 |   |   |-- serializers.py
-
 |   |   |-- permissions.py
+|   |   |-- urls.py
+|   |
+|   |-- pm_system/
+|   |   |-- settings.py
+|   |   |-- urls.py
+|   |   |-- asgi.py
+|   |   |-- wsgi.py
+|   |
+|   |-- manage.py
+|
+|-- frontend/
+|   |-- public/
+|   |-- src/
+|   |-- package.json
+|
+|-- Output/
+|   |-- Dashboard.png
+|   |-- Login page.png
+|   |-- Projects.png
+|   |-- Rejected Task.png
+|   |-- Task Verification.png
+|   |-- Taskform.png
+|   |-- Tasks.png
+|   |-- Users.png
+|   |-- Usersform.png
+|   |-- projectform.png
+|
+|-- README.md
+
 
 |   |   |-- urls.py
 
