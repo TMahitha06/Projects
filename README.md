@@ -24,7 +24,7 @@ Separate dashboard statistics based on user roles.
 User and project management.
 Application Screenshots
 **Login Page
-!Login Page
+![Login Page](Output/Login%20page.png)
 
 **Dashboard
 !Dashboard
